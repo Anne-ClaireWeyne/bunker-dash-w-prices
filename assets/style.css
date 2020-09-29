@@ -559,10 +559,10 @@ input::-ms-input-placeholder {
   }
 
   .logo{
-    height: 182px;
+    height: 25px;
     width: 182px;
     padding: 6px;
-    margin: -85px -15px 0 0px;
+    margin: 0px -15px 0 0px;
   }
   h3{
     font-size:11px;
@@ -578,7 +578,7 @@ input::-ms-input-placeholder {
     font-size:18px;
   }
   h5 {
-    margin-bottom: 9.6rem;
+    margin-bottom: 0.6rem;
 
   }
   .dash-dropdown{
