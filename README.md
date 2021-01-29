@@ -8,13 +8,12 @@ The database was generated from a [bunkering recognition algorithm](https://gith
 Directory Tree:
 
         +---Emissions-data
-        |   |   app.py
         |   |   LICENSE
         |   |   Procfile
-        |   |   python-app.yml
         |   |   README.md
+        |   |   app.py
+        |   |   python-app.yml
         |   |   requirements.txt
-        |   |   tree.doc
         |   |   
         |   +---assets
         |   |       bunker_ex.png
