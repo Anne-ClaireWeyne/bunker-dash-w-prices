@@ -5,6 +5,25 @@ Online app that generates an interactive dashboard for bunkering information for
 
 The database was generated from a [bunkering recognition algorithm](https://github.com/gabrielfuenmar/bunkering-recognition) that uses raw AIS information.
 
+Directory:
+
+      |   app.py
+      |   LICENSE
+      |   Procfile
+      |   python-app.yml
+      |   README.md
+      |   requirements.txt
+      |   tree.doc
+      |   
+      +---assets
+      |       bunker_ex.png
+      |       style.css
+      |       
+      \---data
+              brent-daily.csv
+              bunkering_ops_mediterranean.csv
+              ports_positions.csv
+
 Dependencies:
 
       pandas 1.0.3
